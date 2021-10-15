@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is a test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'test'",
+    "hello": "echo 'Hello world!'",
+    "start": "node index.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {}
+}
